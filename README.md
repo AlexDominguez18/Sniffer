@@ -1,2 +1,2 @@
 # Sniffer
-Simple network sniffer on Python. Just workn on Linux.
+Simple network sniffer on Python. Just works on Linux.
